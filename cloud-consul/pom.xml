@@ -31,7 +31,6 @@
         <artifactId>nacos-sync-example</artifactId>
         <groupId>com.paderlol.nacos</groupId>
         <version>1.0-SNAPSHOT</version>
-
     </parent>
     <properties>
         <java.version>1.8</java.version>
